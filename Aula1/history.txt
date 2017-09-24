@@ -427,3 +427,82 @@
   427  cat data_atual.txt
   428  history
   429  history > history.txt
+  430  ls
+  431  cat history.txt
+  432  git add Aula1
+  433  ls
+  434  cd ..
+  435  git add Aula1
+  436  ls
+  437  git status
+  438  git commit -m "Aula1"
+  439  git config --global user.email "reginaldogaio@hotmail.com"
+  440  git config --global user.name "Reginaldo Gaio"
+  441  git status
+  442  git commit -m "Aula1"
+  443  git push
+  444  git status 
+  445  git init 
+  446  ls -a
+  447  git status
+  448  git commit -m "Aula1"
+  449  cd Aula1
+  450  git init
+  451  git commit -m "Aula1"
+  452  git config user.email "reginaldogaio@hotmail.com"
+  453  git config global user.email "reginaldogaio@hotmail.com"
+  454  git config global user.name "Reginaldo Gaio"
+  455  git init
+  456  git commit -m "Aula1"
+  457  git add Aula1
+  458  cd ..
+  459  git add Aula1
+  460  ls
+  461  git commit -m "Aula1"
+  462  git init
+  463  ls
+  464  git add Aula1
+  465  ls
+  466  git commit -m "Aula1"
+  467  git config --user.email "reginaldogaio@hotmail.com"
+  468  git config --global user.name "Reginaldo Gaio"
+  469  git status 
+  470  git commit -m "Aula1"
+  471  git add Aula1
+  472  git commit -m "Aula1" 
+  473  ls
+  474  git status
+  475  cd Aula1
+  476  ls
+  477  git init
+  478  git add
+  479  git add.
+  480  git add*
+  481  git --help
+  482  git init
+  483  git add
+  484  git status
+  485  git init
+  486  git add
+  487  cd ..
+  488  git init
+  489  git add
+  490  git add Aula1
+  491  git add commit -m "Aula1"
+  492  git commit -m "Aula1"
+  493  cd Aula1
+  494  git init
+  495  git add Aula1
+  496  cd ..
+  497  git init
+  498  git add Aula1
+  499  git config --global user.name "Reginaldo Gaio"
+  500  git config --global user.email "reginaldogaio@hotmail.com"
+  501  git config global credential.helper wincred
+  502  git config --global credential.helper wincred
+  503  git config --global credential.helper cache
+  504  git remote add origin https://reginaldogaio@github.com/reginaldogaio/Linux.git
+  505  git pull origin master 
+  506  git push origin master
+  507  history
+  508  history > history.txt
