@@ -1,0 +1,662 @@
+    1  ls
+    2  pwd
+    3  ls
+    4  cd Imagens 
+    5  ls
+    6  pwd
+    7  ..
+    8  cd ..
+    9  ls
+   10  pwd
+   11  reboot
+   12  pwr
+   13  pws
+   14  pwd
+   15  /
+   16  cd ..
+   17  ls
+   18  cd reginaldo
+   19  ls
+   20  cd Modelos
+   21  ls
+   22  cd ..
+   23  ls
+   24  cd Downloads
+   25  ls
+   26  cd ..
+   27  ls
+   28  cd Imagens
+   29  ls
+   30  cd Wallpapers
+   31  ls
+   32  cd ..
+   33  ls
+   34  cd ..
+   35  ls
+   36  pwd
+   37  mkdir programaC
+   38  ls
+   39  cd programaC
+   40  ls
+   41  gcc
+   42  nano gcc
+   43  ls
+   44  cd soma
+   45  soma.gcc
+   46  ./prog
+   47  ./soma
+   48  $ ./soma
+   49  $ ./prog
+   50  ls
+   51  gcc <soma>
+   52  gcc soma.c -o
+   53  gcc soma.c
+   54  ls
+   55  gcc soma.c -a soma
+   56  gcc soma.c -o soma
+   57  ./soma
+   58  nano gcc
+   59  ls
+   60  nano gcc
+   61  gcc soma.c -o soma
+   62  touch soma.c
+   63  ls
+   64  rw soma.c
+   65  rwdir soma.c
+   66  rvdir soma.c
+   67  pwd
+   68  rm ~/home/reginaldo/programaC soma.c
+   69  rm ~/home/reginaldo/programaC soma.c.gcc
+   70  ls
+   71  rm ~/home/reginaldo/programaC soma.gcc
+   72  ls
+   73  rm ~/home/reginaldo/programaC/soma.gcc
+   74  rm ~/home/reginaldo/programaC/soma
+   75  ls
+   76  cd soma
+   77  ls
+   78  rm soma.gcc
+   79  ls
+   80  rm soma
+   81  ls
+   82  touch soma.gcc
+   83  nano
+   84  ls
+   85  ls
+   86  gcc primeiro -o primeiro.bin
+   87  gcc primeiro.c -o primeiro.bin
+   88  ls
+   89  rm primeiro
+   90  ls
+   91  touch soma.c
+   92  ls
+   93  nano
+   94  ls
+   95  gcc soma.c -o soma.bin
+   96  ls
+   97  gcc soma.c -o soma.c.bin
+   98  ls
+   99  gcc soma.c -o soma.bin
+  100  rm soma
+  101  nano
+  102  ls
+  103  cd ProgramasC/
+  104  ls
+  105  ./Soma
+  106  cd ..
+  107  ls
+  108  pwd
+  109  ls
+  110  cd Público
+  111  ls
+  112  cd ..
+  113  ls
+  114  gedit
+  115  ls
+  116  pwd
+  117  cd programC
+  118  pwd
+  119  cd programaC
+  120  ls
+  121  rm soma.c
+  122  ls
+  123  cd ..
+  124  ls
+  125  pwd
+  126  ls
+  127  rm programaC
+  128  ls
+  129  cd Programas
+  130  ls
+  131  mkdir ProgramasC
+  132  ls
+  133  pwd
+  134  ls
+  135  nano
+  136  gedit
+  137  cd ProgramasC
+  138  ls
+  139  gcc Soma -o Soma
+  140  gcc Soma -oSoma
+  141  ls
+  142  gcc Soma -o programa
+  143  gcc Soma.c -o Soma
+  144  ls
+  145  gcc Soma
+  146  ls
+  147  gcc Soma.c -omeuprograma
+  148  ls
+  149  ./meuprograma
+  150  gdit
+  151  gedit
+  152  ./meuprograma
+  153  ls
+  154  gcc Soma.c -omeuprograma
+  155  ls
+  156  ./meuprograma
+  157  gedit
+  158  rm meuprograma
+  159  ls
+  160  gcc Soma.c -o Soma
+  161  ls
+  162  ./Soma
+  163  ls
+  164  pwd
+  165  gedit
+  166  env | less
+  167  echo $SECONDS
+  168  exit
+  169  echo $SECONDS
+  170  exit
+  171  ps
+  172  exit
+  173  ps
+  174  echo $teste
+  175  exit
+  176  echo $teste
+  177  exit
+  178  echo $teste
+  179  exit
+  180  echo $SECONDS
+  181  bach
+  182  bash
+  183  echo $SECONDS
+  184  bash
+  185  echo $SECONDS
+  186  echo $SHELL
+  187  echo $SECONDS
+  188  teste = 'teste'
+  189  teste='teste'
+  190  echo $teste
+  191  bash
+  192  ps
+  193  echo $teste
+  194  export teste
+  195  bash
+  196  ps
+  197  echo $teste
+  198  bash
+  199  ps
+  200  pwd
+  201  echo $teste
+  202  ps
+  203  bash
+  204  ps
+  205  echo $teste
+  206  ps
+  207  exit
+  208  ps
+  209  echo $teste
+  210  exit
+  211  echo $teste
+  212  teste="teste"
+  213  echo $teste
+  214  bash
+  215  export teste
+  216  ps
+  217  bash
+  218  unset teste
+  219  echo $teste
+  220  env | less
+  221  testearray=(acerola morango laranja abacaxi)
+  222  echo $testearray
+  223  echo ${testearray[*]}
+  224  echo ${testearray[3]}
+  225  echo ${testearray[0]}
+  226  echo ${testearray[1]}
+  227  echo ${testearray[*]}
+  228  testearray[0]=banana
+  229  echo ${testearray[*]}
+  230  unset testearray[0]
+  231  echo ${testearray[*]}
+  232  unset testearray[*]
+  233  echo ${testearray[*]}
+  234  env
+  235  testearray=(acerola morango laranja abacaxi)
+  236  echo ${testearray[*]}
+  237  testearray[5]=banana
+  238  echo ${testearray[*]}
+  239  cat
+  240  cat /etc/passwd
+  241  cat /etc/passwd |less
+  242  alias
+  243  typeset -f
+  244  palavra(){ cd /home/reginaldo; echo 'Linha acrescentada' >> test_func; }
+  245  typeset -f
+  246  palavra
+  247  ls
+  248  cat test_func
+  249  palavra
+  250  cat test_func
+  251  ls -a
+  252  vi .bashrc
+  253  env
+  254  vi .bashrc
+  255  ls -a
+  256  echo $BASH_ENV
+  257  LS
+  258  ls
+  259  cat test_func
+  260  pwd
+  261  cd ProgramasC
+  262  ls
+  263  Soma.py
+  264  Soma.gcc
+  265  Soma
+  266  cd ..
+  267  pwd
+  268  c
+  269  ll
+  270  sudo apt-get install git
+  271  ssh-keygen -t rsa -b 4096 -C "reginaldogaio@hotmail.com"
+  272  eval "$[ssh-agent -s]"
+  273  eval "$(ssh-agent -s)"
+  274  ssh.add -/.ssh/id_rsa
+  275  ssh-add -/.ssh/id_rsa
+  276  ssh-add ~/.ssh/id_rsa
+  277  sudo apt-get install xclip
+  278  xclip -sel clip </.ssh/id_rsa.pub
+  279  xclip -sel clip < /.ssh/id_rsa.pub
+  280  xclip -sel clip < ~/.ssh/id_rsa.pub
+  281  git --version
+  282  git init
+  283  ls -a
+  284  git status
+  285  git add ProgramasC
+  286  git status 
+  287  git status
+  288  git commit -m "ProgramasC"
+  289  git config --user.email "reginaldogaio@hotmail.com"
+  290  git config --global user.email "reginaldogaio@hotmail.com"
+  291  git config --global user.name "Reginaldo Gaio"
+  292  git status
+  293  git commit -m "ProgramasC"
+  294  cd ProgramasC
+  295  ls
+  296  cd ..
+  297  git status 
+  298  git commit -m "test_func"
+  299  git config --global user.email "reginaldogaio@hotmail.com"
+  300  git config --global user.name "Reginaldo Gaio"
+  301  git status
+  302  git commit -m "Primeiro Commit, Linguagem C"
+  303  git clone https://github.com/ReginaldoGaio/ProgramasC.git
+  304  ls
+  305  gcc Soma
+  306  ls
+  307  cd ProgramasC
+  308  gcc Soma
+  309  ls
+  310  gcc Soma
+  311  ./Soma
+  312  cd ..
+  313  ls
+  314  rm test_func
+  315  ls
+  316  git init
+  317  ls
+  318  git status
+  319  soma.gcc
+  320  soma.c.gcc
+  321  git add Soma
+  322  git status
+  323  git commit -m "Programa Soma"
+  324  git config --global user.email "reginaldogaio@hotmail.com"
+  325  git config --global user.name "Reginaldo Gaio"
+  326  git status
+  327  git commit -m "Programa Soma"
+  328  git push
+  329  git status
+  330  ls
+  331  pwd
+  332  ls
+  333  cd ProgramasC
+  334  ls
+  335  /soma
+  336  .soma
+  337  /Soma
+  338  /Soma.gcc
+  339  Soma
+  340  Soma.gcc
+  341  ls
+  342  git status
+  343  ls
+  344  .Soma
+  345  ./Soma
+  346  ..
+  347  cd ..
+  348  ls
+  349  cd GitHub
+  350  ls
+  351  cd ..
+  352  ls
+  353  pwd
+  354  cd ProgramasC
+  355  ls
+  356  cat Soma.c
+  357  ls
+  358  cd Aula1
+  359  mkdir 1semestre
+  360  mkdir2semestre
+  361  mkdir 2semestre
+  362  mkdir 3semestre
+  363  mkdir 4semestre
+  364  mkdir 5semestre
+  365  ls
+  366  mkdir 6semestre
+  367  ls
+  368  cd LabSO
+  369  cd 6semestre
+  370  mkdir LabSO
+  371  mkdir Finanças
+  372  mkdir Estatística
+  373  mkdir Estrutura de Dados
+  374  mkdir Gestão de Negócios 
+  375  ls
+  376  rm Dados
+  377  rm de
+  378  ls
+  379  rm Dados
+  380  ls
+  381  rm Negócios
+  382  rm -rf Dados
+  383  ls
+  384  rm -rf de
+  385  rm -rf Negócios
+  386  ls
+  387  cd ..
+  388  cd 5semestre
+  389  ls
+  390  mkdir BancoII
+  391  mkdir Estrutura
+  392  mkdir Sistemas
+  393  mkdir Filosofia
+  394  ls
+  395  cd ..
+  396  mkdir readme.txt
+  397  ls
+  398  cat readme.txt
+  399  ls
+  400  rm -r readme.txt
+  401  ls
+  402  gedit
+  403  ls
+  404  cat readme.txt
+  405  cat readme
+  406  ls
+  407  cat readme.txt
+  408  gedit readme.txt
+  409  echo "teste" > novo.txt
+  410  ls
+  411  cat novo.txt
+  412  echo "Reginaldo Gaio" > novo.txt
+  413  cat novo.txt
+  414  ls
+  415  cat novo.txt
+  416  echo "Jéssica Gaio" >> novo.txt
+  417  cat novo.txt
+  418  date
+  419  date > date_atual.txt
+  420  ls
+  421  cat data_atual.txt
+  422  rm -r date_atual.txt
+  423  ls
+  424  date > data_atual.txt
+  425  ls
+  426  cat data_atual
+  427  cat data_atual.txt
+  428  history
+  429  history > history.txt
+  430  ls
+  431  cat history.txt
+  432  git add Aula1
+  433  ls
+  434  cd ..
+  435  git add Aula1
+  436  ls
+  437  git status
+  438  git commit -m "Aula1"
+  439  git config --global user.email "reginaldogaio@hotmail.com"
+  440  git config --global user.name "Reginaldo Gaio"
+  441  git status
+  442  git commit -m "Aula1"
+  443  git push
+  444  git status 
+  445  git init 
+  446  ls -a
+  447  git status
+  448  git commit -m "Aula1"
+  449  cd Aula1
+  450  git init
+  451  git commit -m "Aula1"
+  452  git config user.email "reginaldogaio@hotmail.com"
+  453  git config global user.email "reginaldogaio@hotmail.com"
+  454  git config global user.name "Reginaldo Gaio"
+  455  git init
+  456  git commit -m "Aula1"
+  457  git add Aula1
+  458  cd ..
+  459  git add Aula1
+  460  ls
+  461  git commit -m "Aula1"
+  462  git init
+  463  ls
+  464  git add Aula1
+  465  ls
+  466  git commit -m "Aula1"
+  467  git config --user.email "reginaldogaio@hotmail.com"
+  468  git config --global user.name "Reginaldo Gaio"
+  469  git status 
+  470  git commit -m "Aula1"
+  471  git add Aula1
+  472  git commit -m "Aula1" 
+  473  ls
+  474  git status
+  475  cd Aula1
+  476  ls
+  477  git init
+  478  git add
+  479  git add.
+  480  git add*
+  481  git --help
+  482  git init
+  483  git add
+  484  git status
+  485  git init
+  486  git add
+  487  cd ..
+  488  git init
+  489  git add
+  490  git add Aula1
+  491  git add commit -m "Aula1"
+  492  git commit -m "Aula1"
+  493  cd Aula1
+  494  git init
+  495  git add Aula1
+  496  cd ..
+  497  git init
+  498  git add Aula1
+  499  git config --global user.name "Reginaldo Gaio"
+  500  git config --global user.email "reginaldogaio@hotmail.com"
+  501  git config global credential.helper wincred
+  502  git config --global credential.helper wincred
+  503  git config --global credential.helper cache
+  504  git remote add origin https://reginaldogaio@github.com/reginaldogaio/Linux.git
+  505  git pull origin master 
+  506  git push origin master
+  507  history
+  508  history > history.txt
+  509  git init
+  510  git add Aula1
+  511  git config --global user.name "Reginaldo Gaio"
+  512  git config --global user.email "reginaldogaio@hotmail.com"
+  513  git config global credential.helper wincred
+  514  git config --global credential.helper wincred
+  515  git config --global credential.helper cache
+  516  git remote add origin https://reginaldogaio@github.com/reginaldogaio/Linux.git
+  517  git init
+  518  git add Aula1
+  519  git commit -m "Aula1"
+  520  git config --global user.name "Reginaldo Gaio"
+  521  git config --global user.email "reginaldogaio@hotmail.com"
+  522  git config --global credential.helper wincred
+  523  git config --global credential.helper cache
+  524  git remote add origin https://reginaldogaio@github.com/reginaldogaio/Linux.git
+  525  git pull origin master
+  526  git push origin master
+  527  git pull
+  528  ls
+  529  git remote add origin https://github.com/reginaldogaio/Linux
+  530  git init
+  531  git remote add origin https://github.com/reginaldogaio/Linux
+  532  git init
+  533  git pull
+  534  git status 
+  535  git add history.txt
+  536  git add "history.txt"
+  537  git init
+  538  git commit "Aula1"
+  539  git push
+  540  git log
+  541  git init
+  542  git commit -m "Aula1"
+  543  git init
+  544  git add Aula1
+  545  git config --global usar.name "Reginaldo Gaio"
+  546  git config --global usar.email "reginaldogaio@hotmail.com"
+  547  git config --global credential.helper wincred
+  548  git config --global credential.helper cache
+  549  git remote add origin https://reginaldogaio@github.com/reginaldogaio/Linux.git
+  550  git pull origin master
+  551  git push origin master
+  552  git pull origin master
+  553  git push origin master
+  554  pwr
+  555  pwd
+  556  ls
+  557  mkdir Aula1
+  558  ls
+  559  cd Aula1
+  560  ls
+  561  cd Aula1
+  562  ls
+  563  git commit -m "history.txt"
+  564  git add history.txt
+  565  git status
+  566  git commit -m "histoty.txt"
+  567  git status
+  568  git push
+  569  git status
+  570  ls
+  571  git add histoty.txt
+  572  git add history.txt
+  573  git status
+  574  git push
+  575  git init
+  576  git status 
+  577  git status
+  578  cd Aula1
+  579  ls
+  580  git init
+  581  git status
+  582  ls
+  583  pwd
+  584  ls
+  585  cd Aula1
+  586  ls
+  587  cd ..
+  588  mkdir Aula4
+  589  cd Aula4
+  590  ls
+  591  cd ..
+  592  git clone
+  593  vi teste.txt
+  594  ls
+  595  cat teste.txt
+  596  nano teste2.txt
+  597  cat teste2.txt
+  598  ls
+  599  echo linha um
+  600  echo linha um > arq1.txt
+  601  cat arq1.txt
+  602  echo linha dois >> arq1.txt
+  603  cat arq1.txt
+  604  echo linha três  >> arq1.txt
+  605  cat arq1.txt
+  606  ls
+  607  cat << EOF > arq2.txt
+  608  linha um
+  609  linha dois
+  610  linha três
+  611  linha quatro
+  612  EOF
+  613  cat arq2.txt
+  614  cat << EOF >>  arq2.txt
+  615  linha cinco
+  616  EOF
+  617  cat arq2.txt
+  618  get https://github.com/BlackrockDigital/startbootstrap-freelancer/archive/v4-dev.zip
+  619  wget https://github.com/BlackrockDigital/startbootstrap-freelancer/archive/gh-pages.zip
+  620  gunzip gh-pages.zip
+  621  unzip gh-pages.zip
+  622  ls
+  623  bunzip gh-pages.zip
+  624  unzip gh-pages.zip
+  625  ls
+  626  unzip gh-pages.zip
+  627  ls
+  628  rm LAB SO
+  629  rm -a LAB SO
+  630  rm -m LAB SO
+  631  rm -r LAB SO
+  632  cat examples.desktop
+  633  ls
+  634  rm LAB SO
+  635  unzip gh-pages.zip
+  636  ls
+  637  unzip gh-pages.zip
+  638  cd startbootstrap-freelancer-gh-pages/
+  639  ls
+  640  python -m
+  641  python -m SimpleHTTPServer 8000
+  642  nano
+  643  nano index.html 
+  644  python -m SimpleHTTPServer 8000
+  645  git status
+  646  cd ..
+  647  git clone https://github.com/ReginaldoGaio/Linux.git
+  648  cd Linux
+  649  ls
+  650  mkdir Aula6
+  651  cd Aula6
+  652  ls
+  653  mv ~/startbootstrap-freelancer-gh-pages/ .
+  654  ls
+  655  cd startbootstrap-freelancer-gh-pages/
+  656  ls
+  657  git add .
+  658  git commit -m "Criei uma página no nano"
+  659  git push
+  660  git commit -m "Criei uma página no nano"
+  661  git push
+  662  history > Aula6.txt

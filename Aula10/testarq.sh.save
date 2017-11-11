@@ -1,0 +1,14 @@
+#!/bin/bash
+  arq=$1
+  
+  if [ -f $arq ]
+  
+  then
+   
+    echo -e "Arquivo existente."
+  
+  else
+   
+    
+ echo -e "Arquivo não existe."
+  fi
