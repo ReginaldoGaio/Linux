@@ -1,1000 +1,1000 @@
- 1054  rm Aula8
- 1055  ls
- 1056  cd ..
- 1057  ls
- 1058  cp labso-simulado Linux
- 1059  ls
- 1060  cd Linux
- 1061  cp labso-simulado Linux
- 1062  ls
- 1063  cd ~
- 1064  ls
- 1065  cd Simulado-Prova
- 1066  ls
- 1067  cp ../labso-simulado/prog.c  .
- 1068  ls
- 1069  cp ../labso-simulado/prova2.txt .
- 1070  ls
- 1071  cat prog.c 
- 1072  cat prova2.txt 
- 1073  ls
- 1074  rm prog.c 
- 1075  rm prova2.txt 
- 1076  ls
- 1077  cp ../labso-simulado/prova2.txt .
- 1078  cp ../labso-simulado/prog.c  .
- 1079  ls
- 1080  cat prog.c 
- 1081  cat prova2.txt 
- 1082  print
- 1083  print "Olá mundo!"
- 1084  echo "Olá mundo!"
- 1085  ls
- 1086  nano
- 1087  ls
- 1088  cat resposta
- 1089  mv resposta > prova2.txt 
- 1090  cp resposta prova2.txt 
- 1091  ls
- 1092  cat prova2.txt 
- 1093  ls
- 1094  cat prova2.txt 
- 1095  rm prova2.txt 
- 1096  ls
- 1097  cp ../labso-simulado/prova2.txt .
- 1098  ls
- 1099  cat prova2.txt 
- 1100  gdit
- 1101  gedit
- 1102  cd gdit
- 1103  cd gedit
- 1104  gedit
- 1105  gedit prova2.txt 
- 1106  nano prova2.txt 
- 1107  ls
- 1108  rm resposta
- 1109  ls
- 1110  cat prova2.txt 
- 1111  cd ..
- 1112  ls
- 1113  git add .
- 1114  gedit history
- 1115  ls
- 1116  git status
- 1117  git add .
- 1118  ls
- 1119  cd Simulado-Prova
- 1120  ls
- 1121  git add .
- 1122  git commit -m "Simulado"
- 1123  git push
- 1124  ls
- 1125  grep -v // prog.c
- 1126  git add .
- 1127  git commit -m "Simulado"
- 1128  git push
- 1129  cd ..
- 1130  history > history.txt
- 1131  ls
- 1132  cat history.txt 
- 1133  cd labso-simulado
- 1134  ls
- 1135  cat prova2.txt 
- 1136  nano prog.c 
- 1137  echo -e Line1\nLine2
- 1138  echo -e "Line1\nLine2"
- 1139  ls
- 1140  cp -avr labso Trabalho1-LabSO/
- 1141  ls
- 1142  cd Trabalho1-LabSO/
- 1143  ls
- 1144  rm labso/
- 1145  rm -r labso/
- 1146  ls
- 1147  cd ..
- 1148  ls
- 1149  cd Trabalho1-LabSO/
- 1150  ls
- 1151  rm -rf labso
- 1152  ls
- 1153  cd ..
- 1154  ls
- 1155  cd labso
- 1156  ls
- 1157  cd trabalho
- 1158  cp -avr trabalho Trabalho1-LabSO/
- 1159  cd ..
- 1160  cp -avr trabalho Trabalho1-LabSO/
- 1161  ls
- 1162  cd ..
- 1163  cd Trabalho1-LabSO/
- 1164  ls
- 1165  cp -avr trabalho Trabalho1-LabSO/
- 1166  cp -avr Trabalho1-LabSO trabalho 
- 1167  ls
- 1168  cd ..
- 1169  cd labso
- 1170  ls
- 1171  rm -r Trabalho1-LabSO/
- 1172  ls
- 1173  cd ..
- 1174  ls
- 1175  cd labso
- 1176  ls
- 1177  pwd
- 1178  cp -r /home/reginaldo/labso
- 1179  cp -r /home/reginaldo/labso ./Simulado-Prova
- 1180  cp -r /home/reginaldo/labso home/reginaldo/Simulado-Prova
- 1181  cp -r /home/reginaldo/labso/trabalho ./Trabalho-LabSO
- 1182  ls
- 1183  rm -r Trabalho-LabSO/
- 1184  rm -r Simulado-Prova/
- 1185  ls
- 1186  cd ..
- 1187  cd Trabalho1-LabSO/
- 1188  ls/
- 1189  cp -r /home/reginaldo/labso/trabalho ./Trabalho-LabSO
- 1190  ls
- 1191  rm -r Trabalho-LabSO/
- 1192  ls
- 1193  cp -r /home/reginaldo/Trabalho1-LabSO/ ./labso/trabalho
- 1194  ls
- 1195  cd ~
- 1196  ls
- 1197  cp labso/trabalho -r -v Trabalho1-LabSO/
- 1198  ls
- 1199  cd Trabalho1-LabSO/
- 1200  ls
- 1201  rm -r trabalho/
- 1202  ls
- 1203  cd ~
- 1204  cp labso/trabalho -r Trabalho1-LabSO/
- 1205  cd Trabalho1-LabSO/
- 1206  ls
- 1207  cd trabalho/
- 1208  ls
- 1209  nano trab1-2017.txt 
- 1210  ls
- 1211  cd Linux
+ 1211  unzip gh-pages.zip 
  1212  ls
- 1213  cd Linux/
+ 1213  cd startbootstrap-freelancer-gh-pages/
  1214  ls
- 1215  cat data_atual.txt 
- 1216  cat novo.txt 
- 1217  cat history.txt 
- 1218  cd ..
- 1219  ~
- 1220  .
- 1221  /~
- 1222  cd ~
- 1223  ls
- 1224  cd Simulado-Prova/
- 1225  ls
- 1226  cat prova2.txt 
- 1227  nano prova2.txt 
- 1228  cat prova2.txt 
- 1229  cd..
- 1230  cd ..
- 1231  git add .
- 1232  cd Simulado-Prova/
- 1233  git add .
- 1234  git commit -m "Simulado"
- 1235  git push
- 1236  git pushls
- 1237  ls
- 1238  cd ..
+ 1215  nno index.html 
+ 1216  nano index.html 
+ 1217  python -m SimpleHTTPServer 8000
+ 1218  cd ~
+ 1219  ls -
+ 1220  ls -a
+ 1221  ls .
+ 1222  ls
+ 1223  cd Trabalho1-LabSO/
+ 1224  ls
+ 1225  cd trabalho/
+ 1226  ls
+ 1227  cd log
+ 1228  ls
+ 1229  cat access.log
+ 1230  cat tail access.log
+ 1231  tail -f access.log
+ 1232  tail -n 1 access.log
+ 1233  tail -n 3 access.log
+ 1234  ls
+ 1235  cd ..
+ 1236  ls
+ 1237  cat > reginaldo1.txt reginaldo2.txt reginaldo3.txt
+ 1238  cat >> reginaldo1.txt reginaldo2.txt reginaldo3.txt
  1239  ls
- 1240  git clone https://github.com/ReginaldoGaio/Trabalho1-LabSO.git
+ 1240  rm reginaldo1.txt 
  1241  ls
- 1242  git clone https://github.com/salgado/labso.git 
+ 1242  cat >> reginaldo1.txt reginaldo2.txt reginaldo3.txt
  1243  ls
- 1244  cat labso
- 1245  cd labso
- 1246  ls
- 1247  cd trab2
- 1248  ls
- 1249  cat instrucoes.txt 
- 1250  ls
- 1251  cd ..
- 1252  ls
- 1253  cd trabalho/
+ 1244  rm reginaldo1.txt 
+ 1245  ls
+ 1246  echo
+ 1247  cat reginaldo1.txt reginaldo2.txt reginaldo3.txt
+ 1248  touch reginaldo{1..3}.txt
+ 1249  ls
+ 1250  mkdir reginaldo01
+ 1251  ls
+ 1252  cd reginaldo01/
+ 1253  cp /trabalho/r* .
  1254  ls
- 1255  cat instrucoes.txt 
- 1256  cd ..
- 1257  ls
- 1258  cd ..
- 1259  ls
- 1260  cd labso
- 1261  ls
- 1262  cp ../Trabalho1-LabSO/trabalho .
- 1263  cd ..
- 1264  cp ../Trabalho1-LabSO/trabalho .
- 1265  cd labso
- 1266  cp ../trabalho/Trabalho-LabSO .
+ 1255  cp home/labso/trabalho/r* .
+ 1256  cp home/reginaldo/labso/trabalho/r* .
+ 1257  cp /trabalho/r* .
+ 1258  ls
+ 1259  cd ..
+ 1260  ls
+ 1261  cd ~
+ 1262  pwd
+ 1263  cp /home/reginaldo/Trabalho1-LabSO/ reginaldo.txt1 reginaldo.txt2 reginaldo.txt.3 /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
+ 1264  cd Trabalho1-LabSO/
+ 1265  ls
+ 1266  cd trabalho/
  1267  ls
- 1268  cd ..
+ 1268  cd reginaldo01/
  1269  ls
- 1270  unzip gh-pages.zip 
+ 1270  cd ~
  1271  ls
- 1272  cd startbootstrap-freelancer-gh-pages/
+ 1272  cd Linux
  1273  ls
- 1274  nno index.html 
- 1275  nano index.html 
- 1276  python -m SimpleHTTPServer 8000
- 1277  cd ~
- 1278  ls -
- 1279  ls -a
- 1280  ls .
+ 1274  history > history.txt 
+ 1275  cat history.txt 
+ 1276  la
+ 1277  ls
+ 1278  cd labso
+ 1279  ls
+ 1280  cd trabalho/
  1281  ls
- 1282  cd Trabalho1-LabSO/
- 1283  ls
- 1284  cd trabalho/
- 1285  ls
- 1286  cd log
- 1287  ls
- 1288  cat access.log
- 1289  cat tail access.log
- 1290  tail -f access.log
- 1291  tail -n 1 access.log
- 1292  tail -n 3 access.log
+ 1282  cd pasta03
+ 1283  cd pasta3
+ 1284  ls
+ 1285  cd Trabalho1-LabSO/
+ 1286  ls
+ 1287  cd trabalho/
+ 1288  ls
+ 1289  cp arquivo1.txt arquivo2.txt arquivo3.txt > reginaldo01/
+ 1290  man
+ 1291  cp -help
+ 1292  pwd
  1293  ls
- 1294  cd ..
- 1295  ls
- 1296  cat > reginaldo1.txt reginaldo2.txt reginaldo3.txt
- 1297  cat >> reginaldo1.txt reginaldo2.txt reginaldo3.txt
- 1298  ls
- 1299  rm reginaldo1.txt 
- 1300  ls
- 1301  cat >> reginaldo1.txt reginaldo2.txt reginaldo3.txt
- 1302  ls
- 1303  rm reginaldo1.txt 
- 1304  ls
- 1305  echo
- 1306  cat reginaldo1.txt reginaldo2.txt reginaldo3.txt
- 1307  touch reginaldo{1..3}.txt
- 1308  ls
- 1309  mkdir reginaldo01
- 1310  ls
- 1311  cd reginaldo01/
- 1312  cp /trabalho/r* .
+ 1294  cp /home/reginaldo/Trabalho1-LabSO/trabalho/ reginaldo{1..3}.txt
+ 1295  cp /home/reginaldo/Trabalho1-LabSO/trabalho/ reginaldo{1..3}.txt /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
+ 1296  cd reginaldo01/
+ 1297  ls
+ 1298  rm reginaldo{1..3}.txt
+ 1299  ls
+ 1300  cp /home/reginaldo/Trabalho1-LabSO/trabalho/ reginaldo{1..3}.txt /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
+ 1301  ls
+ 1302  cd ..
+ 1303  cp /home/reginaldo/Trabalho1-LabSO/trabalho/ reginaldo{1..3}.txt /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
+ 1304  cd reginaldo01/
+ 1305  ls
+ 1306  rm reginaldo{1..3}.txt
+ 1307  ls
+ 1308  cd ..
+ 1309  cp reginaldo{1..3}.txt /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
+ 1310  cd reginaldo01/
+ 1311  ls
+ 1312  cd ..
  1313  ls
- 1314  cp home/labso/trabalho/r* .
- 1315  cp home/reginaldo/labso/trabalho/r* .
- 1316  cp /trabalho/r* .
- 1317  ls
- 1318  cd ..
- 1319  ls
- 1320  cd ~
- 1321  pwd
- 1322  cp /home/reginaldo/Trabalho1-LabSO/ reginaldo.txt1 reginaldo.txt2 reginaldo.txt.3 /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
- 1323  cd Trabalho1-LabSO/
- 1324  ls
- 1325  cd trabalho/
- 1326  ls
- 1327  cd reginaldo01/
- 1328  ls
- 1329  cd ~
+ 1314  find name pasta
+ 1315  find -name pasta
+ 1316  ls
+ 1317  find -name pasta
+ 1318  find ./pasta
+ 1319  find ./pasta -type d -name "pasta*"
+ 1320  find -type d -name "pasta*"
+ 1321  ls
+ 1322  cd pasta3
+ 1323  ls
+ 1324  cd pasta31/
+ 1325  ls
+ 1326  cat 3.txt 
+ 1327  cd ..
+ 1328  find -type d -name "pasta*"
+ 1329  cd ..
  1330  ls
- 1331  cd Linux
- 1332  ls
- 1333  history > history.txt 
- 1334  cat history.txt 
- 1335  la
- 1336  ls
- 1337  cd labso
+ 1331  find -type d -name "pasta*"
+ 1332  cd trabalho/
+ 1333  ls
+ 1334  cd pasta1
+ 1335  ls
+ 1336  cd ..
+ 1337  cd pasta2
  1338  ls
- 1339  cd trabalho/
- 1340  ls
- 1341  cd pasta03
- 1342  cd pasta3
- 1343  ls
- 1344  cd Trabalho1-LabSO/
- 1345  ls
- 1346  cd trabalho/
+ 1339  cd ..
+ 1340  cd pasta33
+ 1341  cd pasta3
+ 1342  ls
+ 1343  cd pasta31/
+ 1344  ls
+ 1345  cd ..
+ 1346  find -type d -name "pasta*"
  1347  ls
- 1348  cp arquivo1.txt arquivo2.txt arquivo3.txt > reginaldo01/
- 1349  man
- 1350  cp -help
- 1351  pwd
- 1352  ls
- 1353  cp /home/reginaldo/Trabalho1-LabSO/trabalho/ reginaldo{1..3}.txt
- 1354  cp /home/reginaldo/Trabalho1-LabSO/trabalho/ reginaldo{1..3}.txt /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
- 1355  cd reginaldo01/
- 1356  ls
- 1357  rm reginaldo{1..3}.txt
+ 1348  cd log/
+ 1349  ls
+ 1350  cat access.log
+ 1351  grep access.log
+ 1352  grep "200.19.168.148" access.log
+ 1353  grep "IP" access.log
+ 1354  ls
+ 1355  grep "IP" access.log
+ 1356  grep "200.19.168.148" access.log*
+ 1357  cd ..
  1358  ls
- 1359  cp /home/reginaldo/Trabalho1-LabSO/trabalho/ reginaldo{1..3}.txt /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
+ 1359  cd trabalho/
  1360  ls
- 1361  cd ..
- 1362  cp /home/reginaldo/Trabalho1-LabSO/trabalho/ reginaldo{1..3}.txt /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
- 1363  cd reginaldo01/
+ 1361  cd reginaldo01/
+ 1362  ls
+ 1363  cd ..
  1364  ls
- 1365  rm reginaldo{1..3}.txt
+ 1365  cat trab1-2017.txt 
  1366  ls
- 1367  cd ..
- 1368  cp reginaldo{1..3}.txt /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo01/
- 1369  cd reginaldo01/
- 1370  ls
- 1371  cd ..
- 1372  ls
- 1373  find name pasta
- 1374  find -name pasta
- 1375  ls
- 1376  find -name pasta
- 1377  find ./pasta
- 1378  find ./pasta -type d -name "pasta*"
- 1379  find -type d -name "pasta*"
- 1380  ls
- 1381  cd pasta3
+ 1367  gedit 
+ 1368  pwd
+ 1369  cd log/
+ 1370  grep "200.19.168.148" access.log* > /home/reginaldo/Trabalho1-LabSO/trabalho
+ 1371  grep "200.19.168.148" access.log* > /home/reginaldo/Trabalho1-LabSO/trabalho reginaldo1.txt
+ 1372  cd ..
+ 1373  ls
+ 1374  cat reginaldo1.txt 
+ 1375  grep "200.19.168.148" access.log* >> /home/reginaldo/Trabalho1-LabSO/trabalho reginaldo1.txt
+ 1376  cat reginaldo1.txt 
+ 1377  ls
+ 1378  cd log
+ 1379  ls
+ 1380  grep "200.19.168.148" access.log* > regilado1.txt 
+ 1381  cd ..
  1382  ls
- 1383  cd pasta31/
- 1384  ls
- 1385  cat 3.txt 
- 1386  cd ..
- 1387  find -type d -name "pasta*"
- 1388  cd ..
- 1389  ls
- 1390  find -type d -name "pasta*"
- 1391  cd trabalho/
+ 1383  cat reginaldo1.txt 
+ 1384  pwd
+ 1385  cd log/
+ 1386  grep "200.19.168.148" access.log* > /home/reginaldo/Trabalho1-LabSO/trabalho/regilado1.txt 
+ 1387  cd ..
+ 1388  ls
+ 1389  cat reginaldo1.txt 
+ 1390  gedit reginaldo1.txt 
+ 1391  cd log/
  1392  ls
- 1393  cd pasta1
- 1394  ls
- 1395  cd ..
- 1396  cd pasta2
+ 1393  cat regilado1.txt 
+ 1394  gedit regilado1.txt 
+ 1395  ls
+ 1396  rm regilado1.txt 
  1397  ls
  1398  cd ..
- 1399  cd pasta33
- 1400  cd pasta3
- 1401  ls
- 1402  cd pasta31/
+ 1399  ls
+ 1400  gedit reginaldo1.txt 
+ 1401  gedit regilado1.txt 
+ 1402  rm regilado1.txt 
  1403  ls
- 1404  cd ..
- 1405  find -type d -name "pasta*"
- 1406  ls
- 1407  cd log/
- 1408  ls
- 1409  cat access.log
- 1410  grep access.log
- 1411  grep "200.19.168.148" access.log
- 1412  grep "IP" access.log
- 1413  ls
- 1414  grep "IP" access.log
- 1415  grep "200.19.168.148" access.log*
- 1416  cd ..
- 1417  ls
- 1418  cd trabalho/
+ 1404  cd log/
+ 1405  ls
+ 1406  grep "200.19.168.148" access.log* > /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo1.txt
+ 1407  ls
+ 1408  cd ..
+ 1409  ls
+ 1410  gedit reginaldo1.txt 
+ 1411  ls
+ 1412  gedit trab1-2017.txt 
+ 1413  nano trab1-2017.txt 
+ 1414  gesit trab1-2017.txt 
+ 1415  gedit trab1-2017.txt 
+ 1416  ls
+ 1417  cat instrucoes.txt 
+ 1418  cd ..
  1419  ls
- 1420  cd reginaldo01/
+ 1420  cd Trabalho1-LabSO/
  1421  ls
- 1422  cd ..
+ 1422  cd trabalho/
  1423  ls
- 1424  cat trab1-2017.txt 
+ 1424  cat instrucoes.txt 
  1425  ls
- 1426  gedit 
- 1427  pwd
- 1428  cd log/
- 1429  grep "200.19.168.148" access.log* > /home/reginaldo/Trabalho1-LabSO/trabalho
- 1430  grep "200.19.168.148" access.log* > /home/reginaldo/Trabalho1-LabSO/trabalho reginaldo1.txt
+ 1426  cat trab1-2017.txt 
+ 1427  ls
+ 1428  cd pasta1/
+ 1429  ls
+ 1430  cat 1.txt 
  1431  cd ..
- 1432  ls
- 1433  cat reginaldo1.txt 
- 1434  grep "200.19.168.148" access.log* >> /home/reginaldo/Trabalho1-LabSO/trabalho reginaldo1.txt
- 1435  cat reginaldo1.txt 
- 1436  ls
- 1437  cd log
- 1438  ls
- 1439  grep "200.19.168.148" access.log* > regilado1.txt 
- 1440  cd ..
- 1441  ls
- 1442  cat reginaldo1.txt 
- 1443  pwd
- 1444  cd log/
- 1445  grep "200.19.168.148" access.log* > /home/reginaldo/Trabalho1-LabSO/trabalho/regilado1.txt 
- 1446  cd ..
- 1447  ls
- 1448  cat reginaldo1.txt 
- 1449  gedit reginaldo1.txt 
- 1450  cd log/
- 1451  ls
- 1452  cat regilado1.txt 
- 1453  gedit regilado1.txt 
- 1454  ls
- 1455  rm regilado1.txt 
- 1456  ls
- 1457  cd ..
+ 1432  cd pasta2/
+ 1433  ls
+ 1434  cat 2.txt 
+ 1435  cd ..
+ 1436  cd pasta3/
+ 1437  ls
+ 1438  cd pasta31/
+ 1439  ls
+ 1440  cat 3.txt 
+ 1441  cd ..
+ 1442  ls
+ 1443  cd reginaldo01/
+ 1444  ls
+ 1445  cat reginaldo1.txt 
+ 1446  gedit reginaldo1.txt 
+ 1447  cat reginaldo2.txt 
+ 1448  cat reginaldo3.txt 
+ 1449  cd ..
+ 1450  ls
+ 1451  cat reginaldo1.txt 
+ 1452  cd ..
+ 1453  git add .
+ 1454  git commit -m "Trabalho1-LabSO"
+ 1455  git push
+ 1456  git pull
+ 1457  cd ~
  1458  ls
- 1459  gedit reginaldo1.txt 
- 1460  gedit regilado1.txt 
- 1461  rm regilado1.txt 
- 1462  ls
- 1463  cd log/
- 1464  ls
- 1465  grep "200.19.168.148" access.log* > /home/reginaldo/Trabalho1-LabSO/trabalho/reginaldo1.txt
- 1466  ls
- 1467  cd ..
- 1468  ls
- 1469  gedit reginaldo1.txt 
+ 1459  cd Linux/
+ 1460  ls
+ 1461  history > history.txt
+ 1462  gedit history.txt 
+ 1463  ls
+ 1464  cd Trabalho1-LabSO/
+ 1465  ls
+ 1466  cd trabalho/
+ 1467  ls
+ 1468  nano trab1-2017.txt 
+ 1469  cat instrucoes.txt 
  1470  ls
- 1471  gedit trab1-2017.txt 
- 1472  nano trab1-2017.txt 
- 1473  gesit trab1-2017.txt 
- 1474  gedit trab1-2017.txt 
- 1475  ls
- 1476  cat instrucoes.txt 
- 1477  cd ..
- 1478  ls
- 1479  cd Trabalho1-LabSO/
- 1480  ls
- 1481  cd trabalho/
+ 1471  cd Trabalho1-LabSO/
+ 1472  ls
+ 1473  cd trabalho/
+ 1474  ls
+ 1475  cd log/
+ 1476  ls
+ 1477  tail - 3 access.log
+ 1478  cat access.log
+ 1479  tail -n 3 access.log
+ 1480  head -n 1 access.log
+ 1481  cd ..
  1482  ls
- 1483  cat instrucoes.txt 
- 1484  ls
- 1485  cat trab1-2017.txt 
- 1486  ls
- 1487  cd pasta1/
+ 1483  find -type d -name "pasta*"
+ 1484  cd log/
+ 1485  grep "163.56.115.58" access.log
+ 1486  grep "163.56.115.58" access.log*
+ 1487  cd ..
  1488  ls
- 1489  cat 1.txt 
- 1490  cd ..
- 1491  cd pasta2/
- 1492  ls
- 1493  cat 2.txt 
- 1494  cd ..
- 1495  cd pasta3/
+ 1489  cd trabalho/
+ 1490  ls
+ 1491  grep "reginaldo1.txt" trab1-2017.txt 
+ 1492  cd log/
+ 1493  cat access.log
+ 1494  grep "error" access.log
+ 1495  touch erro
  1496  ls
- 1497  cd pasta31/
+ 1497  grep "error" access.log > /home/reginaldo/Trabalho1-LabSO/trabalho/log/erro.txt 
  1498  ls
- 1499  cat 3.txt 
- 1500  cd ..
- 1501  ls
- 1502  cd reginaldo01/
+ 1499  cat erro.txt 
+ 1500  gedit erro
+ 1501  nano erro.txt 
+ 1502  rm erro.txt 
  1503  ls
- 1504  cat reginaldo1.txt 
- 1505  gedit reginaldo1.txt 
- 1506  cat reginaldo2.txt 
- 1507  cat reginaldo3.txt 
- 1508  cd ..
- 1509  ls
- 1510  cat reginaldo1.txt 
- 1511  cd ..
- 1512  git add .
- 1513  git commit -m "Trabalho1-LabSO"
- 1514  git push
- 1515  git pull
- 1516  cd ~
+ 1504  rm erro 
+ 1505  ls
+ 1506  cd ~
+ 1507  mkdir prova
+ 1508  ls
+ 1509  pwd
+ 1510  cp -R /home/reginaldo/Trabalho1-LabSO/ /home/reginaldo/prova
+ 1511  ls
+ 1512  cd prova
+ 1513  ls
+ 1514  cd ..
+ 1515  rm -R prova 
+ 1516  -rf prova/
  1517  ls
- 1518  cd Linux/
+ 1518  rm -Rf prova/
  1519  ls
- 1520  history > history.txt
- 1521  gedit history.txt 
- 1522  ls
- 1523  cd Trabalho1-LabSO/
- 1524  ls
- 1525  cd trabalho/
- 1526  ls
- 1527  nano trab1-2017.txt 
- 1528  cat instrucoes.txt 
+ 1520  history 
+ 1521  ls
+ 1522  cd Linux/
+ 1523  ls
+ 1524  history > history.txt 
+ 1525  cat history.txt 
+ 1526  cd ~
+ 1527  ls
+ 1528  cd Área\ de\ Trabalho/
  1529  ls
- 1530  cd Trabalho1-LabSO/
- 1531  ls
- 1532  cd trabalho/
- 1533  ls
- 1534  cd log/
- 1535  ls
- 1536  tail - 3 access.log
- 1537  cat access.log
- 1538  tail -n 3 access.log
- 1539  head -n 1 access.log
- 1540  cd ..
- 1541  ls
- 1542  find -type d -name "pasta*"
- 1543  cd log/
- 1544  grep "163.56.115.58" access.log
- 1545  grep "163.56.115.58" access.log*
- 1546  cd ..
+ 1530  nano history.txt 
+ 1531  cd ..
+ 1532  ls
+ 1533  cd Simulado-Prova/
+ 1534  ls
+ 1535  cat prova2.txt.save.1 
+ 1536  cat prova2.txt.save
+ 1537  ls
+ 1538  rm prova2.txt.save
+ 1539  ls
+ 1540  cat prova2.txt
+ 1541  rm prova2.txt.save.1 
+ 1542  ls
+ 1543  nano prog.c 
+ 1544  prog.c gcc
+ 1545  prog.c .gcc
+ 1546  gcc prog.c 
  1547  ls
- 1548  cd trabalho/
- 1549  ls
- 1550  grep "reginaldo1.txt" trab1-2017.txt 
- 1551  cd log/
- 1552  cat access.log
- 1553  grep "error" access.log
- 1554  touch erro
+ 1548  gcc prog.c 
+ 1549  gcc prog.c.c
+ 1550  gcc prog.c .c
+ 1551  ./prog.c
+ 1552  ls
+ 1553  ./prog.c 
+ 1554  cd ~
  1555  ls
- 1556  grep "error" access.log > /home/reginaldo/Trabalho1-LabSO/trabalho/log/erro.txt 
+ 1556  cd Prova-AV1/
  1557  ls
- 1558  cat erro.txt 
- 1559  gedit erro
- 1560  nano erro.txt 
- 1561  rm erro.txt 
- 1562  ls
- 1563  rm erro 
- 1564  ls
- 1565  cd ~
- 1566  mkdir prova
- 1567  ls
- 1568  pwd
- 1569  cp -R /home/reginaldo/Trabalho1-LabSO/ /home/reginaldo/prova
+ 1558  cd prova-labso-2017.2/
+ 1559  ls
+ 1560  cd prova1-noite/
+ 1561  ls
+ 1562  cat prova1-2017.txt 
+ 1563  nano prova1-2017.txt 
+ 1564  gedit prova1-2017.txt 
+ 1565  cd ..
+ 1566  git add
+ 1567  cd ..
+ 1568  git add
+ 1569  cd Prova-AV1/
  1570  ls
- 1571  cd prova
- 1572  ls
- 1573  cd ..
- 1574  rm -R prova 
- 1575  -rf prova/
- 1576  ls
- 1577  rm -Rf prova/
+ 1571  git add
+ 1572  git add .
+ 1573  git commit -m "Primeira Avaliação"
+ 1574  git push
+ 1575  cd ..
+ 1576  git add .
+ 1577  cd Prova-AV1/
  1578  ls
- 1579  history 
- 1580  ls
- 1581  cd Linux/
- 1582  ls
- 1583  history > history.txt 
- 1584  cat history.txt 
- 1585  cd ~
+ 1579  git add
+ 1580  git add.
+ 1581  git add .
+ 1582  git commit -m "Primeira Avaliação" 
+ 1583  git push
+ 1584  ls
+ 1585  cd prova-labso-2017.2/
  1586  ls
- 1587  cd Área\ de\ Trabalho/
+ 1587  cd prova1-noite/
  1588  ls
- 1589  nano history.txt 
- 1590  cd ..
- 1591  ls
- 1592  cd Simulado-Prova/
- 1593  ls
- 1594  cat prova2.txt.save.1 
- 1595  cat prova2.txt.save
+ 1589  cat prova1-2017.txt 
+ 1590  cd ~
+ 1591  cd Prova-AV1/
+ 1592  ls
+ 1593  cd prova-labso-2017.2/
+ 1594  ls
+ 1595  cd prova1-noite/
  1596  ls
- 1597  rm prova2.txt.save
- 1598  ls
- 1599  cat prova2.txt
- 1600  rm prova2.txt.save.1 
+ 1597  cd 
+ 1598  mkdir novo
+ 1599  cd novo/
+ 1600  git clone https://github.com/ReginaldoGaio/Prova-AV1.git
  1601  ls
- 1602  nano prog.c 
- 1603  prog.c gcc
- 1604  prog.c .gcc
- 1605  gcc prog.c 
+ 1602  cd Prova-AV1/
+ 1603  ls
+ 1604  git -rf prova-labso-2017.2/
+ 1605  git rm -rf prova-labso-2017.2/
  1606  ls
- 1607  gcc prog.c 
- 1608  gcc prog.c.c
- 1609  gcc prog.c .c
- 1610  ./prog.c
- 1611  ls
- 1612  ./prog.c 
- 1613  cd ~
- 1614  ls
- 1615  cd Prova-AV1/
- 1616  ls
- 1617  cd prova-labso-2017.2/
- 1618  ls
- 1619  cd prova1-noite/
- 1620  ls
- 1621  cat prova1-2017.txt 
- 1622  nano prova1-2017.txt 
- 1623  gedit prova1-2017.txt 
- 1624  cd ..
- 1625  git add
- 1626  cd ..
- 1627  git add
- 1628  cd Prova-AV1/
+ 1607  cp /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/* .
+ 1608  ls
+ 1609  cat prova1-2017.txt 
+ 1610  git add .
+ 1611  git commit -m "Primeira Avaliação"
+ 1612  git push
+ 1613  ls
+ 1614  git clone https://github.com/ReginaldoGaio/Prova-AV1.git
+ 1615  ls
+ 1616  git clone https://github.com/salgado/prova-labso-2017.2.git 
+ 1617  ls
+ 1618  cp -R /home/reginaldo/prova-labso-2017.2/ /home/reginaldo/Prova-AV1/
+ 1619  ls
+ 1620  cd prova-labso-2017.2/
+ 1621  ls
+ 1622  cd ..
+ 1623  cd Prova-AV1/
+ 1624  ls
+ 1625  cd prova-labso-2017.2/
+ 1626  ls
+ 1627  cd ..
+ 1628  cd prova-labso-2017.2/
  1629  ls
- 1630  git add
- 1631  git add .
- 1632  git commit -m "Primeira Avaliação"
- 1633  git push
- 1634  cd ..
- 1635  git add .
- 1636  cd Prova-AV1/
- 1637  ls
- 1638  git add
- 1639  git add.
- 1640  git add .
- 1641  git commit -m "Primeira Avaliação" 
- 1642  git push
- 1643  ls
- 1644  cd prova-labso-2017.2/
+ 1630  cd prova1-noite/
+ 1631  ls
+ 1632  mv prova1-2017.txt prova1-reginaldo.txt
+ 1633  ls
+ 1634  touch reginaldo{1..3}.txt
+ 1635  ls
+ 1636  find /home/reginaldo/Prova-AV1/ -empty
+ 1637  find /home/reginaldo/Prova-AV1/ -empty -type d
+ 1638  find /home/reginaldo/Prova-AV1/ -empty -type f
+ 1639  find /home/reginaldo/Prova-AV1/ -empty -type f > reginaldo3.txt 
+ 1640  cat reginaldo3.txt 
+ 1641  mkdir reginaldo 
+ 1642  ls
+ 1643  rm reginaldo
+ 1644  rm -R reginaldo
  1645  ls
- 1646  cd prova1-noite/
- 1647  ls
- 1648  cat prova1-2017.txt 
- 1649  cd ~
- 1650  cd Prova-AV1/
- 1651  ls
- 1652  cd prova-labso-2017.2/
- 1653  ls
- 1654  cd prova1-noite/
- 1655  ls
- 1656  cd 
- 1657  mkdir novo
- 1658  cd novo/
- 1659  git clone https://github.com/ReginaldoGaio/Prova-AV1.git
- 1660  ls
- 1661  cd Prova-AV1/
- 1662  ls
- 1663  git -rf prova-labso-2017.2/
- 1664  git rm -rf prova-labso-2017.2/
- 1665  ls
- 1666  cp /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/* .
- 1667  ls
- 1668  cat prova1-2017.txt 
- 1669  git add .
- 1670  git commit -m "Primeira Avaliação"
- 1671  git push
- 1672  ls
- 1673  git clone https://github.com/ReginaldoGaio/Prova-AV1.git
- 1674  ls
- 1675  git clone https://github.com/salgado/prova-labso-2017.2.git 
- 1676  ls
- 1677  cp -R /home/reginaldo/prova-labso-2017.2/ /home/reginaldo/Prova-AV1/
- 1678  ls
- 1679  cd prova-labso-2017.2/
+ 1646  mkdir reginaldo01
+ 1647  rm -R reginaldo
+ 1648  ls
+ 1649  rm -R reginaldo01/
+ 1650  ls
+ 1651  mkdir reginaldo01
+ 1652  ls
+ 1653  cp reginaldo{1..3}.txt /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/reginaldo01/
+ 1654  ls
+ 1655  cd reginaldo01/
+ 1656  ls
+ 1657  cd ..
+ 1658  ls
+ 1659  cd ..
+ 1660  ls -l
+ 1661  ls -a
+ 1662  ls -R
+ 1663  /h
+ 1664  /home/reginaldo/Prova-AV1/ > /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite
+ 1665  cp /home/reginaldo/Prova-AV1/ > /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/reginaldo3.txt 
+ 1666  ls
+ 1667  cd prova-labso-2017.2/
+ 1668  ls
+ 1669  cd prova1-noite/
+ 1670  ls
+ 1671  cd log/
+ 1672  cat log | head -100 | tail -110
+ 1673  cat access.log | head -100 | tail -110
+ 1674  cat access.log | head 100 | tail 110
+ 1675  cat access.log | head -100 | tail -100
+ 1676  cat access.log | head -100 | tail -110
+ 1677  cat access.log | head -1 | tail -2
+ 1678  cat access.log | head -10 | tail -20
+ 1679  cd ~
  1680  ls
- 1681  cd ..
- 1682  cd Prova-AV1/
+ 1681  cd Prova-AV1/
+ 1682  ls -R > reginaldo2.txt
  1683  ls
- 1684  cd prova-labso-2017.2/
+ 1684  cat reginaldo2.txt 
  1685  ls
- 1686  cd ..
- 1687  cd prova-labso-2017.2/
+ 1686  cd prova-labso-2017.2/
+ 1687  cd prova1-noite/
  1688  ls
- 1689  cd prova1-noite/
+ 1689  cd log
  1690  ls
- 1691  mv prova1-2017.txt prova1-reginaldo.txt
- 1692  ls
- 1693  touch reginaldo{1..3}.txt
- 1694  ls
- 1695  find /home/reginaldo/Prova-AV1/ -empty
- 1696  find /home/reginaldo/Prova-AV1/ -empty -type d
- 1697  find /home/reginaldo/Prova-AV1/ -empty -type f
- 1698  find /home/reginaldo/Prova-AV1/ -empty -type f > reginaldo3.txt 
- 1699  cat reginaldo3.txt 
- 1700  mkdir reginaldo 
- 1701  ls
- 1702  rm reginaldo
- 1703  rm -R reginaldo
- 1704  ls
- 1705  mkdir reginaldo01
- 1706  rm -R reginaldo
- 1707  ls
- 1708  rm -R reginaldo01/
- 1709  ls
- 1710  mkdir reginaldo01
- 1711  ls
- 1712  cp reginaldo{1..3}.txt /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/reginaldo01/
- 1713  ls
- 1714  cd reginaldo01/
- 1715  ls
- 1716  cd ..
- 1717  ls
- 1718  cd ..
- 1719  ls -l
- 1720  ls -a
- 1721  ls -R
- 1722  /h
- 1723  /home/reginaldo/Prova-AV1/ > /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite
- 1724  cp /home/reginaldo/Prova-AV1/ > /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/reginaldo3.txt 
- 1725  ls
- 1726  cd prova-labso-2017.2/
- 1727  ls
- 1728  cd prova1-noite/
+ 1691  cat access.log
+ 1692  grep "200.19.168.148" access.log*
+ 1693  ls
+ 1694  cd Prova-AV1/
+ 1695  pwd
+ 1696  ls
+ 1697  cd prova-labso-2017.2/
+ 1698  ls
+ 1699  cd prova1-noite/
+ 1700  ls
+ 1701  cd ..
+ 1702  ls
+ 1703  ls -a
+ 1704  ls -l
+ 1705  ls -df
+ 1706  ls -d
+ 1707  ls -f
+ 1708  ls -l
+ 1709  ls -1 | egrep 
+ 1710  ls -d */
+ 1711  ls -d */ | -f */
+ 1712  ls -f */
+ 1713  ls -l
+ 1714  ls
+ 1715  ls -a
+ 1716  ls
+ 1717  cd prova-labso-2017.2/
+ 1718  ls
+ 1719  cd prova1-noite/
+ 1720  ls
+ 1721  pwd
+ 1722  ls
+ 1723  cd log/
+ 1724  ls
+ 1725  cat grepdata.txt 
+ 1726  grep "999-999-9999" access.log*
+ 1727  grep "   -   -    " access.log*
+ 1728  find /home/reginaldo/Prova-AV1/ -empty -type f
  1729  ls
- 1730  cd log/
- 1731  cat log | head -100 | tail -110
- 1732  cat access.log | head -100 | tail -110
- 1733  cat access.log | head 100 | tail 110
- 1734  cat access.log | head -100 | tail -100
- 1735  cat access.log | head -100 | tail -110
- 1736  cat access.log | head -1 | tail -2
- 1737  cat access.log | head -10 | tail -20
- 1738  cd ~
+ 1730  cd ..
+ 1731  ls
+ 1732  find /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/eitch -name reginaldo*.txt
+ 1733  find /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/ -name reginaldo*.txt
+ 1734  find /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/ -name reginaldo*
+ 1735  find /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/reginaldo -name reginaldo*
+ 1736  cd ~
+ 1737  ls
+ 1738  cd Prova-AV1/
  1739  ls
- 1740  cd Prova-AV1/
- 1741  ls -R > reginaldo2.txt
+ 1740  prova-labso-2017.2/
+ 1741  cd prova-labso-2017.2/
  1742  ls
- 1743  cat reginaldo2.txt 
+ 1743  cd prova1-noite/
  1744  ls
- 1745  cd prova-labso-2017.2/
- 1746  cd prova1-noite/
- 1747  ls
- 1748  cd log
- 1749  ls
- 1750  cat access.log
- 1751  grep "200.19.168.148" access.log*
- 1752  ls
- 1753  cd Prova-AV1/
- 1754  pwd
+ 1745  cd ..
+ 1746  find prova1-noite/ [-name reginaldo]
+ 1747  find prova1-noite/ [-name reginaldo{1..3}]
+ 1748  find prova1-noite/ [-name reginaldo{1..3}.txt]
+ 1749  find prova1-noite/ [-name reginaldo]
+ 1750  find prova1-noite/ [-name reginaldo{1..3}.txt] -print
+ 1751  find prova1-noite/ -name reginaldo{1..3}.txt -print
+ 1752  find prova1-noite/ -name reginaldo*.txt -print
+ 1753  find prova1-noite/ -name reginaldo{1..3}.txt -print
+ 1754  find prova1-noite/ -name reginaldo*.txt -print
  1755  ls
- 1756  cd prova-labso-2017.2/
- 1757  ls
- 1758  cd prova1-noite/
- 1759  ls
- 1760  cd ..
- 1761  ls
- 1762  ls -a
- 1763  ls -l
- 1764  ls -df
- 1765  ls -d
- 1766  ls -f
- 1767  ls -l
- 1768  ls -1 | egrep 
- 1769  ls -d */
- 1770  ls -d */ | -f */
- 1771  ls -f */
- 1772  ls -l
- 1773  ls
- 1774  ls -a
- 1775  ls
- 1776  cd prova-labso-2017.2/
- 1777  ls
- 1778  cd prova1-noite/
- 1779  ls
- 1780  pwd
- 1781  ls
- 1782  cd log/
- 1783  ls
- 1784  cat grepdata.txt 
- 1785  grep "999-999-9999" access.log*
- 1786  grep "   -   -    " access.log*
- 1787  find /home/reginaldo/Prova-AV1/ -empty -type f
+ 1756  cd Área\ de\ Trabalho/
+ 1757  cat history.txt 
+ 1758  ls
+ 1759  cd Trabalho1-LabSO/
+ 1760  ls
+ 1761  cd trabalho/
+ 1762  ls
+ 1763  nano trab1-2017.txt 
+ 1764  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' access.log*
+ 1765  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' access.log*
+ 1766  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' "access.log"
+ 1767  cd log
+ 1768  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' "access.log"
+ 1769  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' access.log*
+ 1770  ls
+ 1771  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' "access.log"
+ 1772  cd ..
+ 1773  find pasta -type d
+ 1774  find {pasta} -type d
+ 1775  find -type d -name "pasta*"
+ 1776  find {pasta} -type d
+ 1777  cd trabalho/
+ 1778  ls
+ 1779  cd pasta3/
+ 1780  ls
+ 1781  find -type d -name "pasta*"
+ 1782  cd ..
+ 1783  find -type d -name "pasta*"
+ 1784  ls
+ 1785  ls -a
+ 1786  ls -l
+ 1787  cd trabalho/
  1788  ls
- 1789  cd ..
- 1790  ls
- 1791  find /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/eitch -name reginaldo*.txt
- 1792  find /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/ -name reginaldo*.txt
- 1793  find /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/ -name reginaldo*
- 1794  find /home/reginaldo/Prova-AV1/prova-labso-2017.2/prova1-noite/reginaldo -name reginaldo*
- 1795  cd ~
- 1796  ls
- 1797  cd Prova-AV1/
- 1798  ls
- 1799  prova-labso-2017.2/
- 1800  cd prova-labso-2017.2/
- 1801  ls
- 1802  cd prova1-noite/
- 1803  ls
- 1804  cd ..
- 1805  find prova1-noite/ [-name reginaldo]
- 1806  find prova1-noite/ [-name reginaldo{1..3}]
- 1807  find prova1-noite/ [-name reginaldo{1..3}.txt]
- 1808  find prova1-noite/ [-name reginaldo]
- 1809  find prova1-noite/ [-name reginaldo{1..3}.txt] -print
- 1810  find prova1-noite/ -name reginaldo{1..3}.txt -print
- 1811  find prova1-noite/ -name reginaldo*.txt -print
- 1812  find prova1-noite/ -name reginaldo{1..3}.txt -print
- 1813  find prova1-noite/ -name reginaldo*.txt -print
- 1814  ls
- 1815  cd Área\ de\ Trabalho/
- 1816  cat history.txt 
- 1817  ls
- 1818  cd Trabalho1-LabSO/
- 1819  ls
- 1820  cd trabalho/
- 1821  ls
- 1822  nano trab1-2017.txt 
- 1823  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' access.log*
- 1824  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' access.log*
- 1825  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' "access.log"
- 1826  cd log
- 1827  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' "access.log"
- 1828  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' access.log*
- 1829  ls
- 1830  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' "access.log"
- 1831  cd ..
- 1832  find pasta -type d
- 1833  find {pasta} -type d
- 1834  find -type d -name "pasta*"
- 1835  find {pasta} -type d
- 1836  cd trabalho/
- 1837  ls
- 1838  cd pasta3/
- 1839  ls
- 1840  find -type d -name "pasta*"
- 1841  cd ..
- 1842  find -type d -name "pasta*"
- 1843  ls
- 1844  ls -a
- 1845  ls -l
- 1846  cd trabalho/
- 1847  ls
- 1848  cat reginaldo1.txt 
- 1849  ls > reginaldo1.txt 
- 1850  cat reginaldo1.txt 
- 1851  cd ..
- 1852  cd trabalho/
- 1853  ls
- 1854  nano trab1-2017.txt 
- 1855  cd Trabalho1-LabSO/
- 1856  git add .
- 1857  git push
- 1858  cd ..
- 1859  git add .
- 1860  cd Trabalho1-LabSO/
- 1861  git add .
- 1862  git commit -m 
- 1863  git commit -m "Trabalho1-LabSO"
- 1864  git push
- 1865  exit
+ 1789  cat reginaldo1.txt 
+ 1790  ls > reginaldo1.txt 
+ 1791  cat reginaldo1.txt 
+ 1792  cd ..
+ 1793  cd trabalho/
+ 1794  ls
+ 1795  nano trab1-2017.txt 
+ 1796  cd Trabalho1-LabSO/
+ 1797  git add .
+ 1798  git push
+ 1799  cd ..
+ 1800  git add .
+ 1801  cd Trabalho1-LabSO/
+ 1802  git add .
+ 1803  git commit -m 
+ 1804  git commit -m "Trabalho1-LabSO"
+ 1805  git push
+ 1806  exit
+ 1807  ls
+ 1808  cd Trabalho1-LabSO/
+ 1809  cd trabalho/
+ 1810  ls
+ 1811  cd log/
+ 1812  ls
+ 1813  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' "access.log"
+ 1814  grep '[0-9]\{3\}.[0-9]\{3\}.[0-9]\{3\}.[0-9]\{3\}' "access.log"
+ 1815  cd ..
+ 1816  ls
+ 1817  nano trab1-2017.txt 
+ 1818  cd ..
+ 1819  git add .
+ 1820  git commit -m "Trabalho1-LabSO" 
+ 1821  git push
+ 1822  nano
+ 1823  nano scriptnome.sh 
+ 1824  ls
+ 1825  bash scriptnome.sh
+ 1826  ls
+ 1827  ls Reginaldo/
+ 1828  cd Aula9
+ 1829  cd Linux
+ 1830  ls
+ 1831  cd Aula9/
+ 1832  cat > param.sh
+ 1833  nano param.sh 
+ 1834  bash param.sh 
+ 1835  nano param.sh 
+ 1836  bash param.sh um dis três quatro cinco
+ 1837  bash param.sh um dois três quatro cinco
+ 1838  nano param.sh 
+ 1839  bash param.sh um dois três quatro cinco
+ 1840  nano param.sh 
+ 1841  bash param.sh um dois três quatro cinco
+ 1842  ls
+ 1843  echo ls
+ 1844  echo $(ls)
+ 1845  cat > soma.sh
+ 1846  nano soma.sh 
+ 1847  bash soma.sh 
+ 1848  bash soma.sh 4 5
+ 1849  nano soma.sh 
+ 1850  bash soma.sh 4 5
+ 1851  nano soma.sh 
+ 1852  bash soma.sh 4 5
+ 1853  nano soma.sh 
+ 1854  bash soma.sh 4 5
+ 1855  bash soma.sh 15 15
+ 1856  #!/bin/bash
+ 1857  echo Olá mundo
+ 1858  ls
+ 1859  cd Linux/
+ 1860  ls
+ 1861  mkdir Aula9
+ 1862  cd Aula9/
+ 1863  cat > olamundo.sh
+ 1864  bash olamundo.sh
+ 1865  ./olamundo.sh
  1866  ls
- 1867  cd Trabalho1-LabSO/
- 1868  cd trabalho/
- 1869  ls
- 1870  cd log/
- 1871  ls
- 1872  grep '[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}.[0-9]\{\3}' "access.log"
- 1873  grep '[0-9]\{3\}.[0-9]\{3\}.[0-9]\{3\}.[0-9]\{3\}' "access.log"
- 1874  cd ..
- 1875  ls
- 1876  nano trab1-2017.txt 
- 1877  cd ..
- 1878  git add .
- 1879  git commit -m "Trabalho1-LabSO" 
- 1880  git push
- 1881  nano
- 1882  nano scriptnome.sh 
- 1883  ls
- 1884  bash scriptnome.sh
+ 1867  rm olamundo.sh 
+ 1868  cat > olamundo.sh
+ 1869  bash olamundo.sh
+ 1870  ./olamundo.sh
+ 1871  cat olamundo.sh 
+ 1872  rm olamundo.sh 
+ 1873  cat olamundo.sh 
+ 1874  cat > olamundo.sh 
+ 1875  ./olamundo.sh
+ 1876  bash olamundo.sh
+ 1877  cat olamundo.sh 
+ 1878  cat > lernome.sh
+ 1879  bash lernome.sh 
+ 1880  cat > criapasta.sh
+ 1881  bash criapasta.sh 
+ 1882  ls
+ 1883  rm NOME
+ 1884  rm -r  NOME
  1885  ls
- 1886  ls Reginaldo/
- 1887  cd Aula9
- 1888  cd Linux
- 1889  ls
- 1890  cd Aula9/
- 1891  cat > param.sh
- 1892  nano param.sh 
- 1893  bash param.sh 
- 1894  nano param.sh 
- 1895  bash param.sh um dis três quatro cinco
- 1896  bash param.sh um dois três quatro cinco
- 1897  nano param.sh 
- 1898  bash param.sh um dois três quatro cinco
- 1899  nano param.sh 
- 1900  bash param.sh um dois três quatro cinco
+ 1886  cat criapasta.sh 
+ 1887  rm criapasta.sh 
+ 1888  ls
+ 1889  cat lernome.sh 
+ 1890  nano lernome.sh 
+ 1891  cat lernome.sh 
+ 1892  bash scriptnome.sh
+ 1893  ls
+ 1894  cd Linux/
+ 1895  ls
+ 1896  mkdir Aula10
+ 1897  cd Aula10
+ 1898  ls
+ 1899  nano
+ 1900  fg
  1901  ls
- 1902  echo ls
- 1903  echo $(ls)
- 1904  cat > soma.sh
- 1905  nano soma.sh 
- 1906  bash soma.sh 
- 1907  bash soma.sh 4 5
- 1908  nano soma.sh 
- 1909  bash soma.sh 4 5
- 1910  nano soma.sh 
- 1911  bash soma.sh 4 5
- 1912  nano soma.sh 
- 1913  bash soma.sh 4 5
- 1914  bash soma.sh 15 15
- 1915  #!/bin/bash
- 1916  echo Olá mundo
- 1917  ls
- 1918  cd Linux/
- 1919  ls
- 1920  mkdir Aula9
- 1921  cd Aula9/
- 1922  cat > olamundo.sh
- 1923  bash olamundo.sh
- 1924  ./olamundo.sh
- 1925  ls
- 1926  rm olamundo.sh 
- 1927  cat > olamundo.sh
- 1928  bash olamundo.sh
- 1929  ./olamundo.sh
- 1930  cat olamundo.sh 
- 1931  rm olamundo.sh 
- 1932  cat olamundo.sh 
- 1933  cat > olamundo.sh 
- 1934  ./olamundo.sh
- 1935  bash olamundo.sh
- 1936  cat olamundo.sh 
- 1937  cat > lernome.sh
- 1938  bash lernome.sh 
- 1939  cat > criapasta.sh
- 1940  bash criapasta.sh 
- 1941  ls
- 1942  rm NOME
- 1943  rm -r  NOME
+ 1902  bash testarq.sh 
+ 1903  cat > testarq.sh
+ 1904  nano testarq.sh 
+ 1905  touch teste1.txt 
+ 1906  ls
+ 1907  bash testarq.sh teste1.txt 
+ 1908  bash testarq.sh teste2.txt 
+ 1909  nano testarq.sh 
+ 1910  bash testarq.sh teste3.txt 
+ 1911  bash testarq.sh teste2.txt 
+ 1912  nano
+ 1913  ls
+ 1914  bash script.sh teste4.txt
+ 1915  nano script.sh 
+ 1916  bash script.sh teste4.txt
+ 1917  bash script.sh teste3.txt
+ 1918  bash script.sh teste2.txt
+ 1919  bash script.sh teste4.txt
+ 1920  bash script.sh teste3.txt
+ 1921  ls
+ 1922  cd ..
+ 1923  ls
+ 1924  history > history.txt 
+ 1925  cd Linux/
+ 1926  ls
+ 1927  history > history.txt 
+ 1928  ls
+ 1929  cd Aula9
+ 1930  ls
+ 1931  cd ..
+ 1932  cd Aula10
+ 1933  ls
+ 1934  bash testarq.sh 
+ 1935  nano testarq.sh 
+ 1936  nano script.sh 
+ 1937  ls
+ 1938  cd Linux
+ 1939  ls
+ 1940  mkdir Aula10
+ 1941  mkdir Aula11
+ 1942  cd Aula11
+ 1943  nano
  1944  ls
- 1945  cat criapasta.sh 
- 1946  rm criapasta.sh 
- 1947  ls
- 1948  cat lernome.sh 
- 1949  nano lernome.sh 
- 1950  cat lernome.sh 
- 1951  bash scriptnome.sh
- 1952  ls
- 1953  cd Linux/
- 1954  ls
- 1955  mkdir Aula10
- 1956  cd Aula10
- 1957  ls
- 1958  nano
- 1959  fg
- 1960  ls
- 1961  bash testarq.sh 
- 1962  cat > testarq.sh
- 1963  nano testarq.sh 
- 1964  touch teste1.txt 
- 1965  ls
- 1966  bash testarq.sh teste1.txt 
- 1967  bash testarq.sh teste2.txt 
- 1968  nano testarq.sh 
- 1969  bash testarq.sh teste3.txt 
- 1970  bash testarq.sh teste2.txt 
- 1971  nano
+ 1945  nano nome.sh 
+ 1946  bash nome.sh 
+ 1947  nome = Reginaldo Gaio da Silva
+ 1948  nome=Reginaldo
+ 1949  echo $nome
+ 1950  echo $[nome:0:4]
+ 1951  echo $(nome:0:4)
+ 1952  echo ${nome:0:4}
+ 1953  echo ${nome:5:10}
+ 1954  nano
+ 1955  ls
+ 1956  bash nomearq.sh 
+ 1957  nano nomearq.sh 
+ 1958  touch nome.c
+ 1959  ls
+ 1960  bash nomearq.sh nome.c
+ 1961  rm nome.c
+ 1962  ls
+ 1963  nano nomea
+ 1964  nano nomearq.sh 
+ 1965  ld
+ 1966  ls
+ 1967  touch teste.c
+ 1968  ls
+ 1969  bash nomearq.sh 
+ 1970  ls
+ 1971  rm teste.c 
  1972  ls
- 1973  bash script.sh teste4.txt
- 1974  nano script.sh 
- 1975  bash script.sh teste4.txt
- 1976  bash script.sh teste3.txt
- 1977  bash script.sh teste2.txt
- 1978  bash script.sh teste4.txt
- 1979  bash script.sh teste3.txt
- 1980  ls
- 1981  cd ..
- 1982  ls
- 1983  history > history.txt 
- 1984  cd Linux/
+ 1973  bash nomearq.sh 
+ 1974  nano
+ 1975  bash arq.sh 
+ 1976  touch teste{1,2,3}.txt
+ 1977  bash arq.sh 
+ 1978  nano arq.sh 
+ 1979  bash listarhome.sh 
+ 1980  nano
+ 1981  nano arq.sh 
+ 1982  nano listarhome.sh 
+ 1983  ls
+ 1984  touch teste{2.2.3}.c
  1985  ls
- 1986  history > history.txt 
- 1987  ls
- 1988  cd Aula9
- 1989  ls
- 1990  cd ..
- 1991  cd Aula10
- 1992  ls
- 1993  bash testarq.sh 
- 1994  nano testarq.sh 
- 1995  nano script.sh 
+ 1986  rm teste\{2.2.3\}.c 
+ 1987  touch teste{1,2,3}.c
+ 1988  ls
+ 1989  basch listaarquivoc.sh 
+ 1990  nano listaarquivoc.sh 
+ 1991  bash listaarquivoc.sh 
+ 1992  cd ..
+ 1993  ls
+ 1994  history > history.txt 
+ 1995  cat history.txt 
  1996  ls
- 1997  cd Linux
- 1998  ls
- 1999  mkdir Aula10
- 2000  mkdir Aula11
- 2001  cd Aula11
- 2002  nano
+ 1997  git add .
+ 1998  cd Linux
+ 1999  git add .
+ 2000  git commit -m "Linux"
+ 2001  git push 
+ 2002  cd Aula8
  2003  ls
- 2004  nano nome.sh 
- 2005  bash nome.sh 
- 2006  nome = Reginaldo Gaio da Silva
- 2007  nome=Reginaldo
- 2008  echo $nome
- 2009  echo $[nome:0:4]
- 2010  echo $(nome:0:4)
- 2011  echo ${nome:0:4}
- 2012  echo ${nome:5:10}
- 2013  nano
- 2014  ls
- 2015  bash nomearq.sh 
- 2016  nano nomearq.sh 
- 2017  touch nome.c
- 2018  ls
- 2019  bash nomearq.sh nome.c
- 2020  rm nome.c
- 2021  ls
- 2022  nano nomea
- 2023  nano nomearq.sh 
- 2024  ld
+ 2004  cd ..
+ 2005  cd Aula4
+ 2006  nano
+ 2007  ls
+ 2008  rm primeiro.sh 
+ 2009  ls
+ 2010  cd ..
+ 2011  cd Aula8
+ 2012  nano
+ 2013  ls
+ 2014  bash primeiro.sh 
+ 2015  rm primeiro.sh 
+ 2016  nano
+ 2017  ls
+ 2018  nano
+ 2019  bash primeiro.sh 
+ 2020  nano
+ 2021  bach mostranome.sh 
+ 2022  bash mostranome.sh 
+ 2023  nano
+ 2024  bash criapasta.sh 
  2025  ls
- 2026  touch teste.c
+ 2026  cd reginaldo/
  2027  ls
- 2028  bash nomearq.sh 
- 2029  ls
- 2030  rm teste.c 
+ 2028  cd ..
+ 2029  nano criapasta.sh 
+ 2030  bash criapasta.sh 
  2031  ls
- 2032  bash nomearq.sh 
- 2033  nano
- 2034  bash arq.sh 
- 2035  touch teste{1,2,3}.txt
- 2036  bash arq.sh 
- 2037  nano arq.sh 
- 2038  bash listarhome.sh 
- 2039  nano
- 2040  nano arq.sh 
- 2041  nano listarhome.sh 
- 2042  ls
- 2043  touch teste{2.2.3}.c
- 2044  ls
- 2045  rm teste\{2.2.3\}.c 
- 2046  touch teste{1,2,3}.c
+ 2032  cd lucas/
+ 2033  ls
+ 2034  cd ..
+ 2035  rm -r lucas 
+ 2036  ls
+ 2037  rm -r reginaldo/
+ 2038  nano criapasta.sh 
+ 2039  bash criapasta.sh 
+ 2040  ls
+ 2041  rm -r touch/
+ 2042  rm -r reginaldo/
+ 2043  nano criapasta.sh 
+ 2044  bash criapasta.sh 
+ 2045  ls
+ 2046  cd reginaldo/
  2047  ls
- 2048  basch listaarquivoc.sh 
- 2049  nano listaarquivoc.sh 
- 2050  bash listaarquivoc.sh 
- 2051  cd ..
- 2052  ls
- 2053  history > history.txt 
+ 2048  cd ..
+ 2049  rm -r reginaldo/
+ 2050  nano criapasta.sh 
+ 2051  bash criapasta.sh 
+ 2052  cd reginaldo/
+ 2053  ls
+ 2054  ~
+ 2055  /~
+ 2056  cd ~
+ 2057  ls
+ 2058  mkdir Trabalho1-AV2
+ 2059  mkdir Trabalho2-AV2
+ 2060  ls
+ 2061  cd Trabalho2-AV2/
+ 2062  nano
+ 2063  touch reginaldo{1,2,3,4,5}.txt
+ 2064  çls
+ 2065  ls
+ 2066  bash verificaarquivo.sh reginaldo1.txt 
+ 2067  nano verificaarquivo.sh 
+ 2068  bash verificaarquivo.sh reginaldo6.txt 
+ 2069  ls
+ 2070  nano verificaarquivo.sh 
+ 2071  nano
+ 2072  bash contador.sh 
+ 2073  bash contador.sh 10
+ 2074  bash contador.sh 1
+ 2075  bash contador.sh 1 2 3 4 5
+ 2076  bash contador.sh 7
+ 2077  nano contador.sh 
+ 2078  nano contador.sh 2
+ 2079  bash contador.sh 2
+ 2080  bash contador.sh 3
+ 2081  bash contador.sh 5
+ 2082  ls
+ 2083  nano verificaarquivo.sh 
+ 2084  cd ..
+ 2085  ls
+ 2086  cd Trabalho1-AV2/
+ 2087  ls
+ 2088  nano
+ 2089  nano backup.sh 
+ 2090  touch reginaldo{1,2,3}.txt
+ 2091  ls
+ 2092  bash backup.sh reginaldo1.txt 
+ 2093  ls
+ 2094  cat pequena 
+ 2095  rm pequena 
+ 2096  nano backup.sh 
+ 2097  bash backup.sh reginaldo1.txt 
+ 2098  ls
+ 2099  bash backup.sh reginaldo2.txt 
+ 2100  ls
+ 2101  nano backup.sh 
+ 2102  bash backup.sh reginaldo2.txt 
+ 2103  ls
+ 2104  cd pequena/
+ 2105  ls
+ 2106  rm -r pequena
+ 2107  cd ..
+ 2108  rm -r pequena
+ 2109  touch reginaldo{1,2,3}.txt
+ 2110  ls
+ 2111  nano backup.sh 
+ 2112  ls
+ 2113  pwd
+ 2114  nano backup.sh 
+ 2115  bash backup.sh reginaldo1.txt 
+ 2116  ls
+ 2117  cd pequena/
+ 2118  ls
+ 2119  cd ..
+ 2120  nano backup.sh 
+ 2121  nano reginaldo2.txt 
+ 2122  bash backup.sh reginaldo2.txt 
+ 2123  ls
+ 2124  cd pequena/
+ 2125  ls
+ 2126  cd ..
+ 2127  nano reginaldo3.txt 
+ 2128  bash backup.sh reginaldo3.txt 
+ 2129  ls
+ 2130  cd pequena/
+ 2131  ls
+ 2132  cd ..
+ 2133  bash backup.sh reginaldo3.txt 
+ 2134  nano backup.sh 
+ 2135  bash backup.sh reginaldo1.txt 
+ 2136  bash backup.sh reginaldo2.txt 
+ 2137  nano backup.sh 
+ 2138  bash backup.sh reginaldo1.txt 
+ 2139  bash backup.sh reginaldo2.txt 
+ 2140* 
+ 2141  cd pequena/
+ 2142  ls
+ 2143  cd ..
+ 2144  ls
+ 2145* 
+ 2146  cd Trabalho2-AV2/
+ 2147  ls
+ 2148  cd ..
+ 2149  cd Trabalho1-AV1
+ 2150  ls
+ 2151  cd Trabalho1-AV2/
+ 2152  ls
+ 2153  bash backup.sh teste.txt 
+ 2154  ls
+ 2155  cd pequena/
+ 2156  ls
+ 2157  cd ..
+ 2158  cd ~
+ 2159  cd Trabalho2-AV2/
+ 2160  ls
+ 2161  gedit contador.sh 
+ 2162  rm reginaldo3.txt 
+ 2163  rm reginaldo4.txt 
+ 2164  rm reginaldo5.txt 
+ 2165  nano 
+ 2166  bash fatorialfor.sh 5
+ 2167  nano fatorialfor.sh 
+ 2168  bash fatorialfor.sh
+ 2169  nano fatorialfor.sh 
+ 2170  bash fatorialfor.sh
+ 2171  nano fatorialfor.sh 
+ 2172  bash fatorialfor.sh
+ 2173  gedit fatorialfor.sh 
+ 2174  bash fatorialfor.sh
+ 2175  nano
+ 2176  bash fact.sh 
+ 2177  nano fact.sh 
+ 2178  bash fact.sh 
+ 2179  nano fact.sh 
+ 2180  bash fact.sh 
+ 2181  nano fact.sh 
+ 2182  nano fatorialfor.sh 
+ 2183  bash fatorialfor.sh 
+ 2184  ls
+ 2185* 
+ 2186  bash exibir.sh 
+ 2187  du -h -c
+ 2188  ls
+ 2189  bash exibir.sh 
+ 2190  du -h *
+ 2191  du -h
+ 2192  bash exibir.sh 
+ 2193  find / -size 0k
+ 2194  find -size 0k
+ 2195  bash exibir.sh 
+ 2196  nano
+ 2197  bash calculaexibi.sh 
+ 2198  ls
+ 2199  touch reginaldo{1,2}.c
+ 2200  touch reginaldo{1,2}.py
+ 2201  bash calculaexibi.sh 
+ 2202  ls
+ 2203  bash calculaexibi.sh 
+ 2204  nano calculaexibi.sh 
+ 2205  ls
+ 2206  cd ~
+ 2207  ls
+ 2208  cd Linux/
+ 2209  ls
+ 2210  history > history.txt 

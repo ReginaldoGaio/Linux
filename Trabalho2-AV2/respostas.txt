@@ -1,0 +1,123 @@
+Trabalho 1
+
+#Faça um script (backup.sh) para mover um arquivo passado como parâmetro para a pasta correta de acordo com o número de linhas.
+
+#!/bin/bash
+
+   teste=$1
+
+   num=$( cat "$teste" | wc -l )   
+
+   if [[ $num -lt 100 ]];
+   then
+      
+      mkdir pequena
+      mv $teste /home/reginaldo/Trabalho1-AV2/pequena
+
+   elif [[ $num -ge 100 ]] && [[ $num -lt 500 ]]
+   then
+      
+      mkdir media
+      mv $teste /home/reginaldo/Trabalho1-AV2/media
+
+   else
+
+      mkdir grande
+      mv $teste /home/reginaldo/Trabalho1-AV2/grande
+
+   fi
+
+   echo -e "\nO arquivo $teste tem $num linhas e foi movido para a pasta correta com sucesso!\n"
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+Trabalho 2
+
+#!/bin/bash
+
+#1-Faça um script Shell que receba um nome de arquivo como parâmetro e responda se este arquivo existe ou não.
+
+   #!/bin/bash
+   
+   file=$1
+   
+   if [ -f $file ]
+   then 
+      echo -e "O arquivo $file existe."
+   else
+      echo -e "O arquivo $file não existe."
+   fi
+
+
+
+#!/bin/bash
+#2-Script que calcula o fatorial de um número usando a estrutura for.
+
+   echo "Digite o número que queira saber o fatorial: "
+   read num
+
+   #Iniciando a variável fatorial(fat)
+   fat=1
+
+   #O contador i inicia com o número 1 e o loop será
+   #executado até que seu valor seja menor ou igual ao valor da variável $num
+   for ((i=1;i<=$num;i++));
+   do
+   #Aqui é utilizada a variável $fat que será multiplicada pela variável $i(contador) até o fim do loop
+
+      fat=$(($fat*$i))
+
+   done
+
+   echo "O fatorial de $num é: $fat"
+
+
+#3-Usando estrutura de repetição, faça um script para exibir todos os arquivos
+#da pasta atual com tamanho = 0kb (vazio).
+
+#!/bin/bash
+
+   for j in $(find -size 0k)
+   do
+      echo "$j"
+   done
+
+
+#4-Usando estrutura de repetição, faça um script para ler a PASTA ATUAL, calcular e exibir:
+#- O total de arquivos lidos
+#- O total de arquivos com a extensão .txt
+#- O total de arquivos com a extensão .c
+#- O total de arquivos com a extensão .py
+
+#!/bin/bash
+
+   txt=0
+   c=0
+   py=0
+   total=0
+
+   for  file in $(ls .)
+   do 
+      case "$file" in
+         *.txt)
+            txt=$(( $txt + 1 ))
+            total=$(( $total + 1 ))
+            ;;
+         *.c)
+            c=$(( $c + 1 ))
+            total=$(( $total + 1 ))
+            ;;
+          *.py)
+            py=$(( $py + 1 ))
+            total=$(( $total + 1 ))
+            ;;
+      *)
+      ;;  
+      esac
+   done
+   echo "Total de arquivos lidos = $total"
+   echo "Total de arquivos .txt = $txt"
+   echo "Total de arquivos .c = $c"
+   echo "Total de arquivos .py = $py"
